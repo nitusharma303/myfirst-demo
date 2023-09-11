@@ -1,4 +1,1 @@
-# myfirst-demo
-this is my first repositary.
-<br>
-Author: Nitu Sharma.
+# This is myfirst repo on gitHub.
